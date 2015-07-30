@@ -1,0 +1,19 @@
+'use strict';
+
+var React = require('react/addons');
+
+
+require('styles/Footer.css');
+
+var Footer = React.createClass({
+
+  render: function () {
+    return (
+        <div className="Footer">
+          <div className="footer-content">Content for Footer</div>
+        </div>
+      );
+  }
+});
+
+module.exports = Footer;

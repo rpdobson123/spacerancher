@@ -1,0 +1,13 @@
+.Header {
+  position:relative;
+  margin: 12px;
+  padding-left: 18px;
+  border-radius: 12px;
+  font-weight: 800;
+  font-size: 22px;
+}
+
+.spaceLogo {
+  margin-left: auto;
+  max-width:696px;
+}

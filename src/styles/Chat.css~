@@ -1,0 +1,20 @@
+.Chat {
+  background: linear-gradient(#B5B, #303);
+  border: 2px solid #000;
+  border-radius: 8px;
+  position:absolute;
+  margin-bottom: 8px;
+  min-height: 120px;
+  width:75%;
+  bottom: 0;
+  padding-left: 20px;
+}
+
+.Submit-Button {
+  background: linear-gradient(#272, #232);
+  border: 2px solid #000;
+  border-radius: 8px;
+
+  width: 40px;
+  font-size: 6px;  
+}

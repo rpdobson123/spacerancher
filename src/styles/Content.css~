@@ -1,0 +1,11 @@
+.Content {
+  border: 1px dashed #f00;
+  float:center;
+  min-height: 400px;
+  padding: 8px 8px 8px 200px;
+}
+
+.TEST_IMAGE {
+  width: 400px;
+  height: 300px;
+}

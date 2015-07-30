@@ -1,0 +1,17 @@
+'use strict';
+
+var React = require('react/addons');
+
+require('styles/Game.css');
+
+var Game = React.createClass({
+
+  render: function () {
+    return (
+        <div className="Game">
+        </div>
+      );
+  }
+});
+
+module.exports = Game;
