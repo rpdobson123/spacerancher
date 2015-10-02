@@ -12,7 +12,7 @@ var Sidebar = React.createClass({
   render: function () {
     return (
         <div className="Sidebar">
-          <p>Content for Sidebar</p>
+           <p>I love Amy Licht</p>
           <Chat />
         </div>
       );
